@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c30eff0c-ca33-4b0c-8c1c-e744dafe39d5}">
+		<property name="assetPath">
+			<value>Music/Tubnut Game Cut.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>45.25</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c004c4fd-00e1-4a99-8a6f-91703f8a150d}</destination>
+		</relationship>
+	</object>
+</objects>

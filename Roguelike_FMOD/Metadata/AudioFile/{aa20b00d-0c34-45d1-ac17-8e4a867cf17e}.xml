@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{aa20b00d-0c34-45d1-ac17-8e4a867cf17e}">
+		<property name="assetPath">
+			<value>One Shots/EnemyDefeat.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.61560090702947845</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c004c4fd-00e1-4a99-8a6f-91703f8a150d}</destination>
+		</relationship>
+	</object>
+</objects>
